@@ -14,7 +14,7 @@ There are some key components we note from our code example above:
 - A colon : marks the end of the if statement.
 - Note the indentation. Anything after the colon that is indented, is considered part of the if statement, which the program will execute.
 
-[](https://github.com/A3lpha/Learning-Python-on-TryHackMe/blob/main/source%20code/5.png)
+![](https://github.com/A3lpha/Learning-Python-on-TryHackMe/blob/main/source%20code/5.png)
 
 
 If statements are essential in programming and will be something you use a lot.
