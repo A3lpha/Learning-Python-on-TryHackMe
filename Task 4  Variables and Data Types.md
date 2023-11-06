@@ -20,7 +20,8 @@ Integer - Whole numbers
 Float - Numbers that contain decimal points or for fractions
 Boolean - Used for data that is restricted to True or False options
 List - Series of different data types stored in a collection
-![](source code/4.png)
+
+[](source code/4.png)
 
 
 Answer the questions below
