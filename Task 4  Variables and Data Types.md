@@ -21,7 +21,7 @@ Float - Numbers that contain decimal points or for fractions
 Boolean - Used for data that is restricted to True or False options
 List - Series of different data types stored in a collection
 
-[](source code/4.png)
+[](https://github.com/A3lpha/Learning-Python-on-TryHackMe/blob/main/source%20code/4.png?raw=true)
 
 
 Answer the questions below
