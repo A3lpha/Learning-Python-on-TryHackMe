@@ -37,6 +37,6 @@ In the code editor, click on the bitcoin.py tab. Write a function called bitcoin
 ```def bitcoinToUSD(bitcoin_amount, bitcoin_value_usd):```
 Once you've written the bitcoinToUSD function, use it to calculate the value of your Bitcoin in USD, and then create an if statement to determine if the value falls below $30,000; if it does, output a message to alert you (via a print statement).
 
-Answer format: ***{****************}
+Answer format: ```THM{BITC0IN_INVESTOR}```
 1 Bitcoin is now worth $24,000. In the code editor on line 14, update the bitcoin_to_usd variable value to 24000 and see if your Python program recognises that your investment is below the $30,000 threshold.
 
